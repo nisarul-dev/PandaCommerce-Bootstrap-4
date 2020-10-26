@@ -1,0 +1,42 @@
+/* Index of Sections
+
+    1. Header Section
+        1.1 Navigation Area
+        1.2 Slider Area
+    2. 
+    3.
+
+*/
+
+/* 1. Header Area Starts */
+
+/* 1.1 Navigation Area */
+input.search-form-width {
+    width: 10em!important;
+  }
+
+@media only screen and (min-width: 1200px) {
+    input.search-form-width {
+      width: 27em !important;
+    }
+}
+
+/* 1.2 Slider Area */
+.orange-bg {
+    background-color: #FEEAE9;
+}
+
+.btn-pink {
+    background-color: #FF2C7F;
+}
+
+.btn-pink:hover {
+    background-color: #c01f5f;
+}
+
+.carousel-indicators li {
+    background-color: #FF2C7F;
+    opacity: .3;
+}
+
+/* 1. Header Area Ends */
